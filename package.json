@@ -20,7 +20,6 @@
     "@babel/preset-env": "^7.13.10",
     "@babel/preset-react": "^7.12.13",
     "@compiled/babel-plugin": "^0.6.9",
-    "@emotion/babel-plugin": "^11.2.0",
     "babel-loader": "^8.2.1",
     "benchmark": "^2.1.4",
     "fs-extra": "^9.1.0",

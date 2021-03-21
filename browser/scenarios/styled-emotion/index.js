@@ -2,7 +2,7 @@ import styled from '@emotion/styled';
 import {benchmarkTheme} from "../../utils";
 import {ThemeProvider} from "@emotion/react";
 
-const Div = styled.div`
+const Div = styled('div')`
   width: 200px;
   height: 200px;
   border-width: 3px;

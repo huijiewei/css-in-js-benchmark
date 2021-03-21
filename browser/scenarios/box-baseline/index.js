@@ -1,6 +1,6 @@
-import emotionStyled from '@emotion/styled';
+import styled from '@emotion/styled';
 
-const Box = emotionStyled('div')(({css}) => css);
+const Box = styled('div')(({css}) => css);
 
 export default function BoxBaseline() {
     return (

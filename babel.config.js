@@ -14,5 +14,5 @@ module.exports = {
             },
         ],
     ],
-    plugins: ['@babel/plugin-transform-runtime', '@emotion', "@compiled/babel-plugin"],
+    plugins: ['@babel/plugin-transform-runtime', "@compiled/babel-plugin"],
 }
